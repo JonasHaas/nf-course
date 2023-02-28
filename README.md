@@ -42,10 +42,10 @@
 <details>
     <summary>Week 2 - Linux</summary>
 
-- [ ] 226 - An Introduction to Linux
-- [ ] 228 - Linux Command Line
-- [ ] 230 - Users and Groups
-- [ ] 232 - Editing Files
-- [ ] 234 - Working with the File System
-- [ ] 235 - Working with Files
+- [x] 226 - An Introduction to Linux
+- [x] 228 - Linux Command Line
+- [x] 230 - Users and Groups
+- [x] 232 - Editing Files
+- [x] 234 - Working with the File System
+- [x] 236 - Working with Files
 </details>
