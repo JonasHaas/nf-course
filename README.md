@@ -2,7 +2,7 @@
 
 ## Table of Content
 <details>
-    <summary>Week 1 - Git & AWS Intro  ✅</summary>
+    <summary>Week 1 - Git & AWS Intro</summary>
 
 1. [Day 1: Course & Git Intro](week1/01.md)
 
@@ -21,6 +21,8 @@
 <details>
     <summary>Week 2 - Linux</summary>
 </details>
+
+<br>
 
 ## Lab and Tests
 <details>
@@ -48,4 +50,5 @@
 - [x] 232 - Editing Files
 - [x] 234 - Working with the File System
 - [x] 236 - Working with Files
+- [x] 237 - Managing File Permissions
 </details>
