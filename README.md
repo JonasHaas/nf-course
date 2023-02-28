@@ -51,4 +51,5 @@
 - [x] 234 - Working with the File System
 - [x] 236 - Working with Files
 - [x] 237 - Managing File Permissions
+- [x] 247 - Working with Commands
 </details>
