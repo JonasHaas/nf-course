@@ -1,28 +1,24 @@
-# OVERVIEW
+<center>
 
-## Table of Content
-<details>
-    <summary>Week 1 - Git & AWS Intro</summary>
+# Table of Content
 
-1. [Day 1: Course & Git Intro](week1/01.md)
-
-1. [Day 2](week1/02.md): 
-
-1. [Day 3](week1/03.md): 
-
-1. [Day 4](week1/04.md):  
-
-1. [Day 5](week1/05.md):  
-
-</details>
-
-
-
-<details>
-    <summary>Week 2 - Linux</summary>
-</details>
-
+[![Intro](src/btn_intro.png)](content/intro.md)
 <br>
+
+[![Git](src/btn_git.png)](content/git.md) &nbsp;&nbsp; [![Linux](src/btn_linux.png)](content/linux.md)
+
+[![Networking](src/btn_networking.png)](content/networking.md) &nbsp;&nbsp; [![Security](src/btn_security.png)](content/security.md)
+<br>
+
+[![Python](src/btn_python.png)](content/python.md) &nbsp;&nbsp; [![Databases](src/btn_db.png)](content/databases.md)
+<br>
+
+[![AWS](src/btn_aws.png)](content/aws.md) &nbsp;&nbsp; [![AWS Adv.](src/btn_aws_adv.png)](content/aws_adv.md)
+<br>
+
+</center>
+
+
 
 ## Lab and Tests
 <details>
