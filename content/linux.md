@@ -2,28 +2,45 @@ Table of Content
 
 1. [Introduction to Linux](#Introduction-to-Linux)
 
-## Introduction to Linux
+2. [Major Components of Linux](#Major-Components-of-Linux)
+___
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.   
+<br>
 
-Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.   
+# Introduction to Linux
 
-Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.   
+Linux is a free and open-source operating system based on the Unix operating system. It is widely used in servers, mainframes, supercomputers, embedded systems, and personal computers. Linux is known for its stability, security, flexibility, and the ability to customize it to suit different needs. It was created by Linus Torvalds in 1991 and is distributed under various open-source licenses. Linux has a large community of developers and users who contribute to its development and improvement.
 
-Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.   
+### OS
+The role of an operating system (OS) on hardware is to manage the computer's resources, such as the CPU, memory, storage, input/output devices, and network connections. It provides a layer of abstraction between the hardware and the software applications, making it easier for developers to write programs that can run on different types of hardware.
 
-Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis.   
+Linux is an operating system that performs this role on hardware. It communicates with the hardware through device drivers and provides a platform for running applications. Linux is designed to be highly customizable and can be used on a wide range of hardware platforms, from small embedded devices to large data centers. It is known for its stability, security, and flexibility, making it a popular choice for both personal and enterprise use. Linux also supports a wide range of programming languages and development tools, making it a versatile platform for software development.
 
-At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, At accusam aliquyam diam diam dolore dolores duo eirmod eos erat, et nonumy sed tempor et et invidunt justo labore Stet clita ea et gubergren, kasd magna no rebum. sanctus sea sed takimata ut vero voluptua. est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat.   
+### Distributions
+Linux comes in different flavors, known as distributions or distros for short. Each distro includes a version of the Linux operating system with a particular set of software applications, configuration settings, and user interfaces. There are hundreds of different Linux distributions available, each with its own focus and features.
 
-Consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus.   
+Ubuntu, for example, is a popular distro that is often used for desktop and laptop computers. It is known for its user-friendly interface and large community of users and developers. Debian, on the other hand, is a more stable and reliable distro that is often used in server environments. Fedora is a distro that focuses on cutting-edge features and is often used by developers who want to experiment with the latest technologies.
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.   
+There are many other Linux distributions available, each with its own strengths and weaknesses. Choosing the right distro depends on your specific needs and preferences. However, one of the advantages of Linux is that you can try out different distros without committing to any one of them, and you can even create your own custom distro if you have the necessary skills and resources.
+<br>
+<br>
 
-Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.   
+# Major Components of Linux
 
-Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.   
+### Kernel: 
+The kernel is the core component of Linux, responsible for managing the system's resources, including the CPU, memory, and input/output devices. It acts as an interface between the hardware and the software running on the system, and provides low-level services such as process scheduling, memory management, and file system access.
 
-Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo
+### Daemons:
+Daemons are background processes that run continuously on the system, performing various system tasks such as network management, printing, and system monitoring. Examples of daemons in Linux include the Network Time Protocol (NTP) daemon, which synchronizes the system clock with a time server, and the Apache web server daemon, which serves web pages to clients. Deamon proscesses names traditionally end with the letter `d`
 
-## Introduction to Linux
+### Applications:
+Applications are user-level programs that run on top of the Linux kernel. They include everything from text editors and web browsers to complex database management systems and graphic design tools. Most Linux distributions come with a wide range of pre-installed applications, and users can also install additional applications from software repositories.
+
+### Data files:
+Data files are files (user content) that are created and used by applications running on the system. They can include everything from text files and images to database files and configuration files. Data files are stored in the file system, which is managed by the kernel.
+
+### Configuration files: 
+Configuration files are used to configure various aspects of the system, such as network settings, user accounts, and system services. They are usually stored in text format and can be edited using a text editor. Configuration files are typically located in the /etc directory on Linux systems.
+
+
+##
